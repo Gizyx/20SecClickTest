@@ -1,0 +1,21 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    overflow:hidden;
+}
+body{
+    display: absolute;
+    width: 100vw;
+}
+div {
+    position: relative;
+    text-align: center;
+}
+canvas {
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
